@@ -1,5 +1,6 @@
 require 'oauth2'
 require 'multi_json'
+require 'uri'
 
 begin
   require 'dotenv'
